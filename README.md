@@ -29,20 +29,9 @@ auth.js: Handles authentication checks for accessing the home page.
 
 Setup and Usage
 Clone the repository:
-sh
-Copy code
 git clone https://github.com/your-username/smart-login-system.git
+
 Navigate to the project directory:
-sh
-Copy code
+
 cd smart-login-system
 Open index.html in a web browser to start the application.
-Screenshots
-Login Page:
-
-Signup Page:
-
-Home Page:
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
